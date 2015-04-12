@@ -1,4 +1,4 @@
-# Random-Word-Generator
+# Random Word Generator
 Social Cops Front End Intern challenge.
 
 # Objective
