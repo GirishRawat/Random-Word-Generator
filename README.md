@@ -12,5 +12,5 @@ jQuery, JavaScript, <a href="http://randomword.setgetgo.com/">Random Word API</a
 
 # Known Bugs
 <ul> 
-  <li></li>
+  <li>API request crashes if called more than 1 request/second.</li>
 </ul>
