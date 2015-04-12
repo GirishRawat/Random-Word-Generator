@@ -1,5 +1,5 @@
 # Random Word Generator
-Social Cops Front End Intern challenge.
+Social Cops Front End Intern challenge. Try it <a href="http://girishrawat.github.io/Random-Word-Generator/">here</a>.
 
 # Objective
 Build a random English word generator. Use Bootstrap Based HTML, use
